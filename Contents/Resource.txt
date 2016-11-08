@@ -1,0 +1,2 @@
+database resorce:
+http://www.c-sharpcorner.com/article/ecommerce-database-design/
